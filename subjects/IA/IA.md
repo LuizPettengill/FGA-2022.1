@@ -8,8 +8,8 @@
 * Máquinas de vetores de suporte.
 * Redes neurais artificiais.
 
-[PLANO DE ENSINO](https://gitlab.com/ensino_unb/am/2022-1/docs)
-
+- [PLANO DE ENSINO](https://gitlab.com/ensino_unb/am/2022-1/docs)
+- [FORUM FAST AI](https://forum.ailab.unb.br/c/curso-fastai-parte-1-2020/5)
 ## AULAS
 
 * [Aula 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/IA/aula1.md)
