@@ -33,7 +33,9 @@
 
 * Weight assignment as Samuel explained is what we call weights
 
-  (INSERT IMAGE HERE)
+    ![Fluxo AI](/assets/fluxo_IA.png)
+
+
 
 * The high amount of layers a DL model can have makes it hard to identify what factors determine the final output
 
