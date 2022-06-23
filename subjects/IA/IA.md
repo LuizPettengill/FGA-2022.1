@@ -12,6 +12,6 @@
 
 ## AULAS
 
-* Aula 1
+* [Aula 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/IA/aula1.md)
 * Aula 2
 * Aula 3
