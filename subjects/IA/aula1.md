@@ -1,6 +1,8 @@
-# Resumo do estudo sobre a aula 1 do curso FastAI
+# Aula 1
 
-## Artificial Inteligence
+## Resumo do estudo sobre a aula 1 do curso FastAI
+
+### Artificial Inteligence
 * Do you need lots of math? No just high school math is sufficient
 * Lots of data? No
 * Lots of expensive computers? No
