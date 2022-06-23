@@ -2,6 +2,11 @@
 
 ## Resumo do estudo sobre a aula 1 do curso FastAI
 
+ >Fiquei na POOL?
+ 
+ - [ ] Sim
+ 
+ - [ ] Não
 ### Artificial Inteligence
 * Do you need lots of math? No just high school math is sufficient
 * Lots of data? No
