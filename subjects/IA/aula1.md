@@ -4,7 +4,7 @@
 
  >Fiquei na POOL?
  
- - [ ] Sim
+ - [x] Sim
  
  - [ ] Não
 ### Artificial Inteligence
