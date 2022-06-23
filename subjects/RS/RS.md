@@ -6,7 +6,12 @@ projetos se originam nos requisitos. A disciplina reúne conceitos, técnicas, p
 estabelecer os requisitos de um software nos diversos níveis de abstração, cujo objetivo principal é estabelecer a compreensão
 do software e compromisso entre todos os participantes de um projeto de software.
 
+>Slides de aula no aprender3, dentro de cada uma das unidades
 * Links importantes
+
+    [REPOSITÓRIO GUARDIÕES DA SAÚDE](https://github.com/ProEpiDesenvolvimento)
+
+    [PLANILHA HORARIOS REQ/MDS](https://docs.google.com/spreadsheets/d/1vVkwMwdo6-5h4eXXzSNKUAAxNtPjKSo408V45qXrAZI/edit?usp=sharing)
 
     [GITHUB](GitHub.com/mdsreq-fga-unb)
 
@@ -17,4 +22,4 @@ do software e compromisso entre todos os participantes de um projeto de software
 
 * [Aula 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula1.md)
 * [Aula 2](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula2.md)
-* Aula 3
+* [Aula 3](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula3.md)

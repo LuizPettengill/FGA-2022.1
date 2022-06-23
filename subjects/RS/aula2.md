@@ -33,7 +33,7 @@ Reuniões iniciais
 
 * Identificacao do product backlog ( req, cliente )
 
-* Inception ( req, cliente (mds pode participar))
+* Lean Inception ( req, cliente (mds pode participar))
 
 Unidade 1 aperta pra REQ
 
