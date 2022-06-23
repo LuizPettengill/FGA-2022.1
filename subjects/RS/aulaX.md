@@ -35,3 +35,18 @@ Reuniões iniciais
 
 * Inception ( req, cliente (mds pode participar))
 
+Unidade 1 aperta pra REQ
+
+Unidade 2 aperta pra MDS
+
+Unidade 3 e 4 aperta pra todo mundo
+
+>Se, por exemplo, usarmos o Scrum, o pessoal de Requisitos ficará encarregado dos cargos de PO, ScrumMaster, Etc. Enquanto isso, em MDS teremos os DevOps
+
+Lições aprendidas (explicar bem para o professor)
+* Explicar bem o que a equipe utilizou, as dificuldades
+* O que facilitou o aprendizado?
+
+Nessa unidade, temos visão de projeto e produto a ser produzida.
+
+O mantenedor da githubpages é o pessoal de MDS.

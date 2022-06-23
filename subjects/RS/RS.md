@@ -15,6 +15,6 @@ do software e compromisso entre todos os participantes de um projeto de software
     [PLANO DE ENSINO](https://aprender3.unb.br/pluginfile.php/2148209/mod_resource/content/1/2022.1%20-%20REQ_Plano-de-Ensino%20-%20Turma%2001%20-%20v2.pdf)
 ## AULAS
 
-* Aula 1
+* [Aula 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula1.md)
 * Aula 2
 * Aula 3
