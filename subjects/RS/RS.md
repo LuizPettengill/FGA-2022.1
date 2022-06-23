@@ -13,7 +13,7 @@ do software e compromisso entre todos os participantes de um projeto de software
 
     [PLANILHA HORARIOS REQ/MDS](https://docs.google.com/spreadsheets/d/1vVkwMwdo6-5h4eXXzSNKUAAxNtPjKSo408V45qXrAZI/edit?usp=sharing)
 
-    [GITHUB](https://GitHub.com/mdsreq-fga-unb)
+    [GITHUB DA DISCIPLINA](https://GitHub.com/mdsreq-fga-unb)
 
     [APRENDER3](https://aprender3.unb.br/course/view.php?id=14592)
 
