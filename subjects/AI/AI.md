@@ -1,6 +1,14 @@
 # INTELIGÊNCIA ARTIFICIAL
 
-PLACEHOLDER
+## EMENTA
+* Introdução a métodos de aprendizado de máquina que são comumente utilizados em aplicações de reconhecimento de padrões em sinais (texto, som e imagem).
+* Regressão.
+* Classificação
+* Aprendizado não supervisionado.
+* Máquinas de vetores de suporte.
+* Redes neurais artificiais.
+
+[PLANO DE ENSINO](https://gitlab.com/ensino_unb/am/2022-1/docs)
 
 ## AULAS
 
