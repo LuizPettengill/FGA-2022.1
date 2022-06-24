@@ -29,6 +29,8 @@
 ### - QUIZ RÁPIDOS
 
         O Guardiões da Saúde é utilizado por várias instituições
+
+        A instituicao precisa de uma conta para gerenciar os quizes?
         
         O quiz teria cinco modulos (a instituicao poderia adicionar ou remover modulos
         
@@ -66,8 +68,3 @@
         o mínimo de questões necessárias no modulo atual, ele não terá acesso ao proximo modulo
 
         O usuário tem que ter a opção de fazer o QUIZ sem estudar o material proposto
-
-
-
-
-        

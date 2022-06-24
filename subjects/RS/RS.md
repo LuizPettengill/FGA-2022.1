@@ -26,4 +26,9 @@ do software e compromisso entre todos os participantes de um projeto de software
 
 ## REUNIÕES
 
-* [Reunião 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/projeto/reunioes/reuniaoGeral1.md)
+|   GRUPO   |   CLIENTE  |
+| --------- | ---------- |
+|  [Reunião 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/projeto/reunioes/reuniaoGeral1.md) | [Reuniao 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/projeto/reunioes/reuniaoPO1.md) |
+| | |
+| | |
+| | |
