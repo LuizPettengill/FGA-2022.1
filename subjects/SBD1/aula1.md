@@ -6,8 +6,9 @@
 * SMALLINT
 * NUMBER
   
-  PRECISION - numero de digitos
-  SCALE - numero de digitos depois do ponto
+    PRECISION - numero de digitos
+    
+    SCALE - numero de digitos depois do ponto
   
 * DOUBLE PRECISION
 * FLOAT
