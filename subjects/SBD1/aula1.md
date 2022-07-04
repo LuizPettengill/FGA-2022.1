@@ -35,4 +35,22 @@
 * SET DEFAULT
 * CHECK
 
+## EXERCICIO
 
+CRIAR TABELAS PARA O SEGUINTE ESQUEA
+
+ALUNO = NOME-, Nmatr, idade, dataNasc
+prof = NOME-, nomeFunc, idade, titulacao
+disciplina = siglaNome-, nCred, prof, livro
+turma = sigla, numero, alunos
+matricula = sigla, numero, aluno, ano, nota
+
+#ALTER TABLE
+
+Incluir/alterar/remover definições de colunas e restrições
+* ALTER TABLE tabela <ação>;
+
+Ações:
+* ADD
+* DROP
+* ALTER
