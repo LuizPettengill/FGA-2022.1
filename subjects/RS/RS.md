@@ -23,6 +23,7 @@ do software e compromisso entre todos os participantes de um projeto de software
 * [Aula 1](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula1.md)
 * [Aula 2](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula2.md)
 * [Aula 3](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/aula3.md)
+* [Reengenharia](https://github.com/LuizPettengill/FGA-2022.1/blob/main/subjects/RS/projeto/reengenharia.md)
 
 ## REUNIÕES
 
